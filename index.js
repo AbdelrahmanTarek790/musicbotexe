@@ -5,8 +5,8 @@ const ytdl = require("ytdl-core");
 const dotenv = require("dotenv").config();
 require("./server.js");
 
-const TOKEN = process.env.NjkwNjE2MTg5NjEyODUxMzEy.XnUAcg.bHoP2U7KMqwRVIri4HzDqJWGsBI;
-const PREFIX = process.env.&;
+const TOKEN = process.env.OTIwMzgyMTk5NDAzMDA4MDAw.YbjiuA.2MtLCkcNr5QN8zXYNIrnxIx79Rc;
+const PREFIX = process.env.!;
 const GOOGLE_API_KEY = process.env.AIzaSyBqAtjeWOxdTUtuMddRjVwXxW20NBRIv5U;
 
 const bot = new Client({
