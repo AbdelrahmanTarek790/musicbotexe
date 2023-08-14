@@ -2,9 +2,9 @@
   "name": "kingserver",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "reload.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node reload.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "canvas": "^1.6.10",
